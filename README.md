@@ -19,12 +19,13 @@
     Open-source projects
     Real-world Full-Stack applications
     Innovative solutions that bridge technology and business
-    
+
+  
 - 📫 How to reach me ...
   
-    📧 Email: sam.samarasooriya88@gmail.com
+   - 📧 Email: sam.samarasooriya88@gmail.com
   
-    💼 LinkedIn: Sam Samarasooriya | www.linkedin.com/in/sam-samarasooriya-556542108
+  - 💼 LinkedIn: Sam Samarasooriya | www.linkedin.com/in/sam-samarasooriya-556542108
 
 - 😄 Pronouns: ...
      He/Him

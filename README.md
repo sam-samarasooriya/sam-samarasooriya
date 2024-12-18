@@ -22,7 +22,8 @@
     
 - 📫 How to reach me ...
     📧 Email: sam.samarasooriya88@gmail.com
-    💼 LinkedIn: Sam Samarasooriya
+  
+    💼 LinkedIn: Sam Samarasooriya | www.linkedin.com/in/sam-samarasooriya-556542108
 
 - 😄 Pronouns: ...
      He/Him

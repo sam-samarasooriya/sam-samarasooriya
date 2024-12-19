@@ -10,28 +10,27 @@ Pronouns: He/Him 🤵
   After transitioning from business ownership and retail management, I completed a Level 6 qualification in Full-Stack Software Development and developed hands-on experience in modern web technologies.  
 
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
   Building dynamic web applications and solutions
   Exploring the intersection of technology and business strategy
   Learning and collaborating in Agile team environments
 
-
-- 🌱 I’m currently learning ...
-    Advanced JavaScript, React, Node.js, ANGULAR
-    Test-driven development and best coding practices
-    Enhancing my soft skills like communication, leadership, and teamwork
+## 🌱 I’m currently learning ...
+  Advanced JavaScript, React, Node.js, ANGULAR
+  Test-driven development and best coding practices
+  Enhancing my soft skills like communication, leadership, and teamwork
   
-- 💞️ I’m looking to collaborate on ...
-    Open-source projects
-    Real-world Full-Stack applications
-    Innovative solutions that bridge technology and business
+## 💞️ I’m looking to collaborate on ...
+  Open-source projects
+  Real-world Full-Stack applications
+  Innovative solutions that bridge technology and business
 
   
-- 📫 How to reach me ...
+## 📫 Contact Me ...
   
    - 📧 Email: sam.samarasooriya88@gmail.com
   
-  - 💼 LinkedIn: Sam Samarasooriya | www.linkedin.com/in/sam-samarasooriya-556542108
+   - 💼 LinkedIn: Sam Samarasooriya | www.linkedin.com/in/sam-samarasooriya-556542108
 
 
   
